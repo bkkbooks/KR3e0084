@@ -432,6 +432,7 @@ markers:
   - {type: line-break, offset: 1206, content: '', id: KR3e0084_WYG_024-5a07}
   - {type: substitution, offset: 1225, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20730}}
   - {type: punctuation, offset: 1226, content: (, id: KR3e0084_krp_024-bkkpn1}
+  - {type: voice, offset: 1226, length: 27, name: note, id: n1}
   - {type: punctuation, offset: 1227, content: /, id: KR3e0084_krp_024-bkkpn2}
   - {type: punctuation, offset: 1228, content: ), id: KR3e0084_krp_024-bkkpn3}
   - {type: 'kr:newline', offset: 1228, content: '
@@ -702,4 +703,4 @@ markers:
 
       ', id: KR3e0084_krp_024-bkkkrnewl125}
   back: []
-hash: sha256:78bf7e7368581d39219bc89750bd2ba5e7e6dd02dd239da7a2d92995e88dd77f
+hash: sha256:cabd8e2b81b922bf9a508de56e302592e0a0eb94d97362c0e9710d4e28a1e6c2
